@@ -1,5 +1,3 @@
-The project is based on the titanic ship wreck. The `training set` will be used to build a machine learning model. The model will be based on features like passengers, gender and class and also the creation of additional feature.
+This project is based on fictional data. It is described as follows; The spaceship titanic was an interstellar passenger liner recendly launced. It had an approximate sum of about 13,000 passengers. The vessel set out on a voyage transporting emigrants from our solar system to three newly habitable exoplanets orditing nearby stars.
 
-The `test set` will be used to see how well the model performs on data never seen before by the model. for the test sets, the ground truth values are not provided for each passengers.
-
-`Gender_submssion.csv` which generaliseds that only female passengers survived the shipwreck.
+While around Alpha Centuri en route to its first destination, the torrid 55 Cancri E- the unwary "Spaceship Titanic" collided with a spacetime anomally as its namesake from 1000 years before. Though the ship stayed intact, almost half of the passengers were transported to an alternate dimension.
